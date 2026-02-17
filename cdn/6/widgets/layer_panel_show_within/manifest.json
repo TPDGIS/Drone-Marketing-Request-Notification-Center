@@ -1,0 +1,22 @@
+{
+  "name": "layer_panel_show_within",
+  "label": "Layer Panel Show Within",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "TPD",
+  "description": "Displays layers that contain or intersect a selected feature from the Notification Center widget",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 400
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}

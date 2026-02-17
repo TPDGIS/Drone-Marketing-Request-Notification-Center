@@ -1,0 +1,22 @@
+{
+  "name": "notification_center",
+  "label": "Notification Center",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "TPD",
+  "description": "Displays notification badge with count of unreviewed Drone Marketing Photograph Request submissions",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 60,
+    "height": 60
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}
